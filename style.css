@@ -3,6 +3,8 @@
   box-sizing: border-box;
 
   font-family: 'Calibri', sans-serif;
+  
+  font-size: 30px;
 
   margin: 0;
 
@@ -129,7 +131,7 @@ div.code::after {
 
 .social i {
   
-  font-size: 18px;
+  font-size: 30px;
  
   margin-right: 10px;
 
